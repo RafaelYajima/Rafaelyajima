@@ -1,5 +1,6 @@
 # Rafael Hideki Yajima 
 
-## Bem-Vindo!
+## Bem-Vindo ao meu perfil
 
-Sou Rafael, gosto de jogar entre outras coisas no meu tempo livre.
+### Objetivos
+Sou Rafael, estou aprendendo a programar em Python, HTML, c/c++

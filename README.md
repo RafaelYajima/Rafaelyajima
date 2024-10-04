@@ -19,13 +19,12 @@ Sou Rafael, estou aprendendo a programar em Python, C#, C/C++, HTML/CSS, JavaScr
 - *(Desenvolvendo!)* [Aplicativo em C#](link-do-projeto) - Um aplicativo simples que estou desenvolvendo em C#.
 
 ## Contribuições
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-yajima&show_icons=true&theme=radical)](https://github.com/rafaelyajima)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelyajima&show_icons=true&theme=radical)](https://github.com/rafaelyajima)
 
 ## Contato (desenvolvendo!)
 - [LinkedIn](link-do-linkedin)
 - [Discord](link-do-discord)
 - [Whatzapp](link-do-whatzapp)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-yajima&show_icons=true&theme=radical)](https://github.com/rafael-yajima)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-yajima&layout=compact&theme=radical)](https://github.com/rafael-yajima)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelyajima&show_icons=true&theme=radical)](https://github.com/rafaelyajima)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelyajima&layout=compact&theme=radical)](https://github.com/rafaelyajima)

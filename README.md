@@ -28,3 +28,6 @@ Sou Rafael, estou aprendendo a programar em Python, C#, C/C++, HTML/CSS, JavaScr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelyajima&show_icons=true&theme=radical)](https://github.com/rafaelyajima)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelyajima&layout=compact&theme=radical)](https://github.com/rafaelyajima)
+
+## Badges
+![Badge de exemplo](https://img.shields.io/badge/Status-Ativo-brightgreen)

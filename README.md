@@ -26,3 +26,20 @@ Sou Rafael, estou aprendendo a programar em Python, C#, C/C++, HTML/CSS, JavaScr
 - [LinkedIn](link-do-linkedin)
 - [Discord](link-do-discord)
 - [WhatsApp](link-do-whatsapp)
+
+![Status do Projeto](https://img.shields.io/badge/Status-Ativo-brightgreen)
+![Build Status](https://img.shields.io/travis/rafaelyajima/repo-name)
+![Linguagens Usadas](https://img.shields.io/badge/Linguagens-Python%2C%20JavaScript%2C%20C%23-blue)
+![Habilidades](https://img.shields.io/badge/Habilidades-Python%2C%20HTML%2C%20CSS%2C%20JavaScript-lightblue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelyajima-blue?style=social)](https://www.linkedin.com/in/rafaelyajima)
+[![Twitter](https://img.shields.io/badge/Twitter-@rafaelyajima-blue?style=social)](https://twitter.com/rafaelyajima)
+![Contribuições](https://img.shields.io/badge/Contribuições-5%20Commits-brightgreen)
+![Licença](https://img.shields.io/badge/Licença-MIT-brightgreen)
+
+# Rafael Hideki Yajima 👋
+
+## Badges
+![Status do Projeto](https://img.shields.io/badge/Status-Ativo-brightgreen)
+![Habilidades](https://img.shields.io/badge/Habilidades-Python%2C%20HTML%2C%20CSS%2C%20JavaScript-lightblue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelyajima-blue?style=social)](https://www.linkedin.com/in/rafaelyajima)
+[![Twitter](https://img.shields.io/badge/Twitter-@rafaelyajima-blue?style=social)](https://twitter.com/rafaelyajima)

@@ -33,3 +33,5 @@ Sou Rafael, estou aprendendo a programar em Python, C#, C/C++, HTML/CSS, JavaScr
 - [Discord](link-do-discord)
 - [WhatsApp](link-do-whatsapp)
 
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=rafaelyajima&theme=react-dark)
+

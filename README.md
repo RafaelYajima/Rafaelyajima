@@ -18,13 +18,11 @@ Sou Rafael, estou aprendendo a programar em Python, C#, C/C++, HTML/CSS, JavaScr
 - [Joguinho em HTML](https://rafaelyajima.github.io/Joguinho/) - Uma pagina que fiz em HTML/CSS, JavaScript e PHP.
 - *(Desenvolvendo!)* [Aplicativo em C#](link-do-projeto) - Um aplicativo simples que estou desenvolvendo em C#.
 
-## Contribuições
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelyajima&show_icons=true&theme=radical)](https://github.com/rafaelyajima)
+## Contribuições=
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelyajima&show_icons=true&theme=radical)](https://github.com/rafaelyajima)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelyajima&layout=compact&theme=radical)](https://github.com/rafaelyajima)
 
 ## Contato (desenvolvendo!)
 - [LinkedIn](link-do-linkedin)
 - [Discord](link-do-discord)
 - [Whatzapp](link-do-whatzapp)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelyajima&show_icons=true&theme=radical)](https://github.com/rafaelyajima)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelyajima&layout=compact&theme=radical)](https://github.com/rafaelyajima)
